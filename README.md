@@ -8,6 +8,6 @@ Abdulrahman Moharib
 
 Ahmad Alroqi
 
-Abdulaziz Moharib
+Abdulaziz Almuharib
 
 https://github.com/WnEx77/CS392-F22-HW1-Abdulrahman-Moharib-
